@@ -15,6 +15,7 @@ h1 {
     font-weight: bolder;
 }
 
-p {
-    display: inline-block;
+.centro {
+    margin-left: 25%;
+    margin-right: 25%;
 }
