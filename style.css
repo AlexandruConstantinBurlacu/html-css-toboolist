@@ -19,3 +19,18 @@ h1 {
     margin-left: 25%;
     margin-right: 25%;
 }
+
+nav {
+    padding: 20px 46px;
+}
+
+button {
+    border: 2px solid gray;
+    border-radius: 4px;
+}
+
+#celeste {
+    background-color: lightskyblue;
+    border-color: lightskyblue;
+    color: white;
+}
