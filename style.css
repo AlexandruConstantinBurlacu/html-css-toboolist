@@ -34,3 +34,26 @@ button {
     border-color: lightskyblue;
     color: white;
 }
+
+ul {
+    list-style-type: none;
+}
+
+.check , .cross {
+    text-align: center;
+    display: inline-block;
+    height: 26px;
+    width: 26px;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+
+.check {
+    color: green;
+    border-color: green;
+}
+
+.cross {
+    color: red;
+    border-color: red;
+}
