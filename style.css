@@ -57,3 +57,35 @@ ul {
     color: red;
     border-color: red;
 }
+
+.editorial , .goals , .recruiting , .mobile , .website , .sales {
+    padding: 8px 14px;
+    border-radius: 10px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    font-size: 0.6em;
+}
+
+.editorial {
+    background-color: lightskyblue;
+}
+
+.goals {
+    background-color: blueviolet;
+}
+
+.recruiting {
+    background-color: green;
+}
+
+.mobile {
+    background-color: orange;
+}
+
+.website {
+    background-color: fuchsia;
+}
+
+.sales {
+    background-color: rgb(81, 128, 0);
+}
